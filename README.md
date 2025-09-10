@@ -457,8 +457,6 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <sub><b>Milo</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/princemaple">
                     <img src="https://avatars.githubusercontent.com/u/1329716?v=4" width="90;" alt="princemaple"/>
@@ -510,8 +508,6 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <sub><b>Liudonghua</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/liusishan">
                     <img src="https://avatars.githubusercontent.com/u/33129823?v=4" width="90;" alt="liusishan"/>
@@ -524,6 +520,13 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <img src="https://avatars.githubusercontent.com/u/5135405?v=4" width="90;" alt="piaoyidage"/>
                     <br />
                     <sub><b>Ranger</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/tdxf1">
+                    <img src="https://avatars.githubusercontent.com/u/192702684?v=4" width="90;" alt="tdxf1"/>
+                    <br />
+                    <sub><b>tdxf1</b></sub>
                 </a>
             </td>
             <td align="center">
