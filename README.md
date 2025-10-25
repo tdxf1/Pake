@@ -283,12 +283,21 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/tdxf1">
+                    <img src="https://avatars.githubusercontent.com/u/192702684?v=4" width="90;" alt="tdxf1"/>
+                    <br />
+                    <sub><b>tdxf1</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/GoodbyeNJN">
                     <img src="https://avatars.githubusercontent.com/u/6856639?v=4" width="90;" alt="GoodbyeNJN"/>
                     <br />
                     <sub><b>GoodbyeNJN</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/eltociear">
                     <img src="https://avatars.githubusercontent.com/u/22633385?v=4" width="90;" alt="eltociear"/>
@@ -296,8 +305,6 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <sub><b>Ikko Eltociear Ashimine</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/kittizz">
                     <img src="https://avatars.githubusercontent.com/u/62899732?v=4" width="90;" alt="kittizz"/>
@@ -340,6 +347,8 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <sub><b>Yi Xin</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/g1eny0ung">
                     <img src="https://avatars.githubusercontent.com/u/15034155?v=4" width="90;" alt="g1eny0ung"/>
@@ -347,20 +356,11 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                     <sub><b>Yue Yang</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/lkieryan">
                     <img src="https://avatars.githubusercontent.com/u/187804088?v=4" width="90;" alt="lkieryan"/>
                     <br />
                     <sub><b>Kieran</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/tdxf1">
-                    <img src="https://avatars.githubusercontent.com/u/192702684?v=4" width="90;" alt="tdxf1"/>
-                    <br />
-                    <sub><b>tdxf1</b></sub>
                 </a>
             </td>
             <td align="center">
