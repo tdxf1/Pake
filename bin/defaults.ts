@@ -5,6 +5,7 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
   height: 780,
   width: 1200,
   fullscreen: false,
+  maximize: false,
   resizable: true,
   hideTitleBar: false,
   alwaysOnTop: false,
@@ -27,6 +28,8 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
   wasm: false,
   enableDragDrop: false,
   keepBinary: false,
+  multiInstance: false,
+  startToTray: false,
 };
 
 // Just for cli development
