@@ -276,17 +276,17 @@ Pake's development can not be without these Hackers. They contributed a lot of c
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Pake-Actions">
-                    <img src="https://avatars.githubusercontent.com/u/126550811?v=4" width="90;" alt="Pake-Actions"/>
-                    <br />
-                    <sub><b>Pake Actions</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/tdxf1">
                     <img src="https://avatars.githubusercontent.com/u/192702684?v=4" width="90;" alt="tdxf1"/>
                     <br />
                     <sub><b>tdxf1</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Pake-Actions">
+                    <img src="https://avatars.githubusercontent.com/u/126550811?v=4" width="90;" alt="Pake-Actions"/>
+                    <br />
+                    <sub><b>Pake Actions</b></sub>
                 </a>
             </td>
             <td align="center">
